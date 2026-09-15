@@ -14,11 +14,7 @@
 
 ## 💡 About Me
 
-Desenvolvedor e cofundador da **Salamander**.
-
-Venho aprimorando minhas habilidades na área desde que comecei em **2020**, por meio de projetos profissionais, pessoais e acadêmicos.
-
-Meu interesse pelo mundo da tecnologia surgiu muito cedo, por volta dos **8 anos de idade**, mas comecei a aprofundar meus conhecimentos em programação aos **12 anos**, estudando **Python**.
+Desenvolvedor de Software com experiência profissional em desenvolvimento backend e full-stack. Cofundador e Desenvolvedor na *Salamander*. Experiente na criação de software utilizando Python, PHP/Laravel, JavaScript, SQL e outras tecnologias modernas de desenvolvimento.
 
 <!-- Linguagens, Frameworks e Ferramentas -->
 
