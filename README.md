@@ -74,7 +74,7 @@ Você pode me encontrar através dos canais abaixo!
 
 <!-- Animação da Cobra comendo os Commits -->
 
-![Snake animation](https://raw.githubusercontent.com/arthurschmidtttt/arthur-schmidt/7e43d8c9f7a488f0bc820c2822d7e9dabb0cd4d8/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/arthurschmidtttt/arthurschmidtttt/06bee14083ff935afb3fb196ce53fb469af70f3b/github-contribution-grid-snake-dark.svg)
 
 <!-- Agradecimento ou Mensagem -->
 
